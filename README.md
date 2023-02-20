@@ -20,4 +20,22 @@ My name is **Husam Hasan Obeidat** ,in my 30's got a *bachelor degree* in Softwa
 
 7-The difference between **git** and **github**
 
- 
+***
+
+
+### different linux commands:
+1- <code>pwd</code> (print working directory)
+
+2- <code>mkdir</code> (make a new directory "Folder")
+
+3- <code>cd</code> (change directory) ==> cd ..  , cd ../../..  , cd husam/test2/
+
+4- <code>ls</code> List directory contents (ls -a , ls -p)
+
+5- <code>touch</code> create a file
+
+6- <code>nano</code> to open and edite the file
+
+
+
+you can contact me ***Via*** my email <husamobe1991@gmail.com>
